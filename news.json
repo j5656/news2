@@ -1,0 +1,19 @@
+{
+  "basic": {
+    "total": "75269(+343)",
+    "recovered": "15066(+1200)",
+    "deaths": "2012(+123)"
+  },
+  "countries": [
+    {
+      "name":"China",
+      "cases": "6956(234)",
+      "deaths": "1273(95)"
+    },
+    {
+      "name":"Japan",
+      "cases": "8956(334)",
+      "deaths": "4353(121)"
+    }
+  ]
+}
